@@ -30,14 +30,27 @@ background-color: black ;
 
 .material-icons {
     font-size: 36px;
+    margin-left: 25px;
 }
 
 .title {
+    margin-left: 25px;
     margin-top: 60px;
     font-size: 25px;
     font-weight: lighter;
 }
 
 .writer {
+    margin-left: 25px;
     font-size: 12px;
 } 
+
+button {
+    margin-left: 25px;
+    height: 30px;
+    font-size: 12
+    px;;
+    border-radius:  15px;
+    background-color: black;
+    color: white;
+}
